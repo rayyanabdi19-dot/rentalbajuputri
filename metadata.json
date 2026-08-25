@@ -1,0 +1,6 @@
+{
+  "name": "SewaBaju Pro",
+  "description": "Aplikasi Manajemen Penyewaan Baju & Busana Mewah (Luxury Rental Management) dengan Database Cloud Google Spreadsheet & Google Apps Script Backend",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
